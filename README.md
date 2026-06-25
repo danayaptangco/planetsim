@@ -12,3 +12,7 @@ Python package that simulates an exoplanet transit animation and mock light curv
    
     pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple planetsim==0.0.1
 
+# View documentation at:
+
+   https://planetsim.readthedocs.io/en/latest/tutorial.html
+
