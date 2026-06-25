@@ -2,3 +2,7 @@ numpy>=2.0.0
 batman-package>=2.5.2
 matplotlib>=3.7.0
 ipython>=8.0
+sphinx
+sphinx_rtd_theme
+nbsphinx
+nbsphinx_link
