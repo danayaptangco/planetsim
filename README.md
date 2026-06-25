@@ -1,3 +1,5 @@
+[![TestPyPI Version](https://img.shields.io/pypi/v/planetsim?style=for-the-badge&label=TestPyPI&pypiBaseUrl=https://test.pypi.org)](https://test.pypi.org/project/planetsim/)
+
 # planetsim
 Python package that simulates an exoplanet transit animation and mock light curve given user input about a specific planet. 
 
